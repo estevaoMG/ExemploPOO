@@ -1,10 +1,93 @@
 ﻿using ExemploPOO.Models;
 
 
-Pessoa p1 = new Pessoa("Estevão");
-Aluno a1 = new Aluno("Eduardo");
-a1.Apresentar();
-Professor prof = new Professor();
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Estevão");
+// Aluno a1 = new Aluno("Eduardo");
+// a1.Apresentar();
+// Professor prof = new Professor();
 
 
 
